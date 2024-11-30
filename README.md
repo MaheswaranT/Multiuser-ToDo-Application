@@ -68,6 +68,3 @@ Contributions are welcome! Follow these steps to contribute:
    git push origin feature/your-feature
    ```
 5. 📝 Open a pull request and describe the changes you made.
-
-## 📄 License
-This project is open-source and available under the [MIT License](LICENSE).
